@@ -33,6 +33,9 @@ Koleksi tools AI gratis dan terjangkau untuk mahasiswa, peneliti, dan profesiona
 | [GitHub Copilot](https://github.com/features/copilot) | Gratis (student) / $10/bln |
 | [Cursor](https://cursor.sh) | Gratis / $20/bln |
 | [Windsurf](https://codeium.com/windsurf) | Gratis / $15/bln |
+| [Agent QA](https://github.com/vostride/agent-qa) | Gratis diinstal* |
+
+*Agent QA menggunakan lisensi FSL-1.1-ALv2 yang source-available; layanan model, browser, atau perangkat yang dikonfigurasi dapat mengenakan biaya terpisah.*
 
 ## 🆓 AI Gratisan Terbaik
 
