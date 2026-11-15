@@ -7,6 +7,7 @@ Koleksi tools AI gratis dan terjangkau untuk mahasiswa, peneliti, dan profesiona
 | Tool | Harga | Bayar Lokal | Cocok Untuk |
 |------|-------|-------------|-------------|
 | [TokenLine](https://tokenline.top) | Gratis / Rp19.900+ | ✅ GoPay, DANA, QRIS | Skripsi, makalah, email dosen, CV |
+| [HumanPen](https://humanpen.net) | 100 kredit gratis saat daftar / [kredit berbayar](https://humanpen.net/pricing) | Tidak diketahui | Menulis ulang dokumen akademik, memformat sitasi, meringkas |
 | [DeepSeek](https://chat.deepseek.com) | Gratis | ❌ | Coding, reasoning, matematika |
 | [ChatGPT](https://chat.openai.com) | Gratis / $20/bln | ❌ Kartu kredit | Chat umum, brainstorming |
 
